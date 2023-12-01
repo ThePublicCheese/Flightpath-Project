@@ -1,0 +1,7 @@
+6
+Dallas,Austin,98,47
+Austin,Houston,95,39
+Dallas,Houston,101,51
+Dallas,Houston,101,200
+Chicago,NewYork,180,120
+NewYork,Houston,200,180

@@ -1,0 +1,30 @@
+The number of locations in your data file is: 6
+Reading...
+The number of locations in your input file is: 2
+Reading...
+
+
+------------------------------------------------------------
+Shortest Paths from NewYork to Austin when considering time :
+
+NewYork -> Houston -> Austin
+Time: 295
+
+NewYork -> Houston -> Dallas -> Austin
+Time: 399
+
+
+------------------------------------------------------------
+
+
+------------------------------------------------------------
+Shortest Paths from Dallas to NewYork when considering cost :
+
+Dallas -> Houston -> NewYork
+Cost: 231
+
+Dallas -> Austin -> Houston -> NewYork
+Cost: 266
+
+
+------------------------------------------------------------
